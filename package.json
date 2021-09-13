@@ -2,5 +2,23 @@
   "dependencies": {
     "archiver": "~5.3.0",
     "fs-extra": "~10.0.0"
-  }
+  },
+  "name": "vonk-mongo-export",
+  "description": "",
+  "version": "0.0.1",
+  "main": "convert.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiddehs/firely-mongodb-rs-export.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiddehs/firely-mongodb-rs-export/issues"
+  },
+  "homepage": "https://github.com/hiddehs/firely-mongodb-rs-export#readme"
 }
